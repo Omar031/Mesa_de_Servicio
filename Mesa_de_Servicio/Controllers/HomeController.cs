@@ -16,7 +16,7 @@ namespace Mesa_de_Servicio.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Traducir a prueba3";
 
             return View();
         }
