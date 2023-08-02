@@ -10,6 +10,7 @@ namespace Mesa_de_Servicio.Controllers
     {
         public ActionResult Index()
         {
+            //esto es una prueba
             return View();
         }
 
